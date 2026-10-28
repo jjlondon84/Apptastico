@@ -168,3 +168,182 @@ body {
   font-weight: bold;
   cursor: pointer;
 }
+.cuatro {
+  max-width: 960px;
+  margin: 0 auto 50px;
+  padding: 0 20px;
+}
+.cuatro1 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+.cuatro2 {
+  width: 18px;
+  height: 18px;
+}
+.cuatro3 {
+  color: #444444;
+  font-size: 18px;
+  font-weight: normal;
+}
+.cuatro4 {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+}
+.cuatro5 {
+  flex: 1;
+  border: 1px solid #e0e0e0;
+  padding: 4px;
+  background-color: #ffffff;
+  display: flex;
+}
+.cuatro5 img {
+  width: 100%;
+  height: auto;
+  display: block;
+}.cinco {
+  max-width: 960px;
+  margin: 0 auto 50px;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 60px;
+}
+.cinco1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.cinco2 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.cinco3 {
+  width: 16px;
+  height: 16px;
+}
+.cinco4 {
+  color: #444444;
+  font-size: 18px;
+  font-weight: normal;
+}
+.cinco5 {
+  display: flex;
+  gap: 15px;
+  align-items: flex-start;
+}
+.cinco6 {
+  width: 75px;
+  height: 52px;
+  border: 1px solid #e0e0e0;
+  padding: 2px;
+  background-color: #ffffff;
+}
+.cinco7 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.cinco8 {
+  color: #444444;
+  font-size: 13px;
+  font-weight: bold;
+}
+.cinco9 {
+  color: #777777;
+  font-size: 11px;
+  line-height: 1.4;
+}
+.cinco9 a {
+  color: #3182b8;
+  text-decoration: none;
+  font-weight: bold;
+}
+.cinco10 {
+  color: #aaaaaa;
+  font-size: 10px;
+}
+.cinco11 {
+  color: #3182b8;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.cinco12 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.cinco13 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.cinco14 {
+  width: 18px;
+  height: 16px;
+}
+.cinco15 {
+  color: #444444;
+  font-size: 18px;
+  font-weight: normal;
+}
+.cinco16 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.cinco17 {
+  color: #777777;
+  font-size: 11px;
+  line-height: 1.4;
+}
+.cinco17 b {
+  color: #444444;
+}
+.cinco17 a {
+  color: #3182b8;
+  text-decoration: none;
+}
+.cinco18 {
+  color: #aaaaaa;
+  font-size: 10px;
+}
+.cinco19 {
+  color: #3182b8;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.seis {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 25px 20px 40px;
+  border-top: 1px solid #ebebeb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.seis1 {
+  color: #999999;
+  font-size: 12px;
+}
+.seis2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.seis3 img {
+  width: 24px;
+  height: 24px;
+  display: block;
+}
